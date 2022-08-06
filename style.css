@@ -1,0 +1,43 @@
+.pala{
+    display: flex;
+}
+.p1{
+    margin-top: 5%;
+    
+}
+.img1{
+    border-radius: 200px;
+    height: 200px;
+    width: 200px;
+
+}
+.hady{
+    display: block;
+    display: flex;
+    margin: left 50px;
+    margin-right: 25%;
+    float: right;
+}
+.img2{
+    border-radius: 150px;
+    height: 150px;
+    width: 150px;
+}
+.p2{
+  float: left;
+}
+.m{
+    display: block;
+    display: flex;
+    margin: left : 50%;;
+    float: right;
+   margin-top: 10%;
+}
+.img3{
+    border-radius: 180px;
+    height: 180px;
+    width: 180px;
+}
+body{
+    background-color: aqua;
+}
